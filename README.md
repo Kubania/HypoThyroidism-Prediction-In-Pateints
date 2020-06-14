@@ -12,7 +12,7 @@ Date: 14/06/2020
 2. Gradient Boosting Classifier
 3. Support Vector Machine
     - Linear SVC
-    - Polynomial SCV
+    - Polynomial SVC
     - Radial Basis Function SVC
     - Sigmoid SVC
   
