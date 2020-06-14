@@ -31,7 +31,7 @@ Exploratory Data Analysis(EDA)
 	* Matplotlib  <br />
 
 # Known Bugs
-None yet
+The SVC models take a lot of time to run
 
 # Technology Used
 Python
